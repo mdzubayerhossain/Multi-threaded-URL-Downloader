@@ -25,7 +25,7 @@ Download and install libcurl from [cURL official website](https://curl.se/downlo
 
 ### 2. Clone the Repository
 ```sh
-git clone https://github.com/yourusername/multi-threaded-url-downloader.git
+git clone https://github.com/mdzubayerhossain/Multi-threaded-URL-Downloader.git
 cd multi-threaded-url-downloader
 ```
 
@@ -60,8 +60,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 For any questions or suggestions, reach out via:
-- **GitHub Issues**: [https://github.com/yourusername/multi-threaded-url-downloader/issues](https://github.com/yourusername/multi-threaded-url-downloader/issues)
-- **Email**: your-email@example.com
+- **GitHub Issues**: [https://github.com/yourusername/multi-threaded-url-downloader/issues](https://github.com/mdzubayerhossain/multi-threaded-url-downloader/issues)
+- **Email**: mdzubayerhossainpatowari@gmail.com
 
 ## Star the Repo ⭐
 If you found this project helpful, please **star** the repo to support future development!
